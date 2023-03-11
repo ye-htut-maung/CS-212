@@ -1,0 +1,13 @@
+package project0;
+
+import javax.swing.*;
+
+public class Project0 {
+	public static void main(String[] args) {
+		String inputSentence;
+		
+		inputSentence = JOptionPane.showInputDialog(null, "Please Enter a sentence");
+		
+		System.out.println(inputSentence);
+	}
+}

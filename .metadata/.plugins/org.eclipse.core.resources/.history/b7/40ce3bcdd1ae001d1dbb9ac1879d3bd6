@@ -1,0 +1,10 @@
+/**
+ * 
+ */
+/**
+ * @author yehtu
+ *
+ */
+module Projects {
+	 requires java.desktop;
+}
